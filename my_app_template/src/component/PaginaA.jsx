@@ -1,16 +1,18 @@
 import React from 'react'
-import { CompònentNAV } from './Barra_Navegacion/CompònentNAV'
+import  {Homepage}  from './home/Homepage'
+
 
 export const PaginaA = () => {
   return (
     
     <div> 
         
-            <CompònentNAV/>
-        
     
+    <span className=''>
     Mi Pagina principal A
-        
+
+        </span>   
+        <Homepage/>
     </div>
   )
 }

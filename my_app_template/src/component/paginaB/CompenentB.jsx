@@ -2,6 +2,11 @@ import React from 'react'
 
 export const CompenentB = () => {
   return (
-    <div>CompenentB</div>
+    <div>
+        <span className='bg-[#00c3ff]'>
+        CompenentB
+
+        </span>        
+    </div>
   )
 }
