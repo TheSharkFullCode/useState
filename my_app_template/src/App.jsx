@@ -65,7 +65,7 @@ function App() {
               <Route path='/Leogivildo' element={<Leogivildo image={componentImage.Leogivildo} className="bg-[#3860cf] text-2xl font-semibold flex justify-center mt-[10px]"/>}/>          
               <Route path='/ervigio' element={<Ervigio image={componentImage.Ervigio} className="bg-[#bdd93e] text-2xl font-semibold flex justify-center mt-[10px]"/>}/>
               <Route path='/recesvinto' element={<Recesvinto image={componentImage.Recesvinto} className="bg-[#797e8b] text-2xl font-semibold flex justify-center mt-[10px]" />}/>
-              <Route path='/sisebuto' element={<Sisebuto image={componentImage.Sisebuto} className="bg-[#bb9bbd] text-2xl font-semibold flex justify-center mt-[10px]"/>}/>
+              <Route path='/sisebuto' element={<Sisebuto image={componentImage.Sisebuto} className="bg-[#bb81c0] text-2xl font-semibold flex justify-center mt-[10px]"/>}/>
               <Route path='/teodorico' element={<Teodorico image={componentImage.Teodorico} className="bg-[#dd5d72] text-2xl font-semibold flex justify-center mt-[10px]"/>}/>
               
           </Routes>
